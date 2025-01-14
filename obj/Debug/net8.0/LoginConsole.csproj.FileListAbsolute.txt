@@ -1,0 +1,15 @@
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\bin\Debug\net8.0\LoginConsole.exe
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\bin\Debug\net8.0\LoginConsole.deps.json
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\bin\Debug\net8.0\LoginConsole.runtimeconfig.json
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\bin\Debug\net8.0\LoginConsole.dll
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\bin\Debug\net8.0\LoginConsole.pdb
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.AssemblyInfoInputs.cache
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.AssemblyInfo.cs
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.sourcelink.json
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.dll
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\refint\LoginConsole.dll
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.pdb
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\LoginConsole.genruntimeconfig.cache
+C:\Users\Master\OneDrive\Documentos\Doc Estágio\StartDigital\LoginConsole\LoginConsole\obj\Debug\net8.0\ref\LoginConsole.dll
